@@ -5,7 +5,7 @@ from openai import AssistantEventHandler
 client = OpenAI(
   organization='org-mZE8a7Qj1jjTBeTDLY1ecJ3C',
   project='proj_lsdxQWDy02Q24C1obcsrvUNA',
-  api_key="sk-proj-3HulhkrytG7XN7A6Cpn1T3BlbkFJpNZmsreZ84dZSW5q4QLU"
+  api_key="sk-proj-hj8MJiZj9o0w30KmmjfxT3BlbkFJ8m79aosvJ7jqAnFWWNJ1"
 )
 
 

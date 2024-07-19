@@ -15,7 +15,6 @@ class AsistenteAI(Resource):
         data=request.get_json()
         
         mensaje=data['mensaje']
-        print(mensaje)
         respuesta=enviar_mensaje(mensaje)
       
         return respuesta
